@@ -19,11 +19,11 @@ cv2.waitKey()
 cv2.destroyAllWindows()
 
 
-#resizing the images
+# resizing the images
 m = cv2.resize(motu, (300,400))
 p = cv2.resize(patlu,(300,400))
 
-#concat the images
+# concat the images
 mp = cv2.hconcat([m, p])
 
 
