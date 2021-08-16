@@ -18,4 +18,7 @@ cv2.imshow('pink',pink)
 cv2.waitKey()
 cv2.destroyAllWindows()
 
-
+blue_green[: , :115] = pink[: , :115]
+cv2.imshow("swapped", blue_green)
+cv2.waitKey()
+cv2.destroyAllWindows()
