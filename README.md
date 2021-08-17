@@ -4,4 +4,4 @@
 #### 35.2 - Take 2 images, crop some part of both the images & swap them.
 #### 35.2 - Take 2 images & combine it to form a single image .
 
-[Visit here for video demonstration of above tasks](https://www.linkedin.com/posts/krushna-prasad_explorewithkp-vimaldaga-righteducation-activity-6833403558197501953-qhix)
+[Visit here for video demonstration of above tasks .](https://www.linkedin.com/posts/krushna-prasad_explorewithkp-vimaldaga-righteducation-activity-6833403558197501953-qhix)
